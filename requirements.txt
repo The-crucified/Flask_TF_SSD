@@ -146,7 +146,7 @@ olefile==0.45.1
 opencv-python==4.1.2.30
 openpyxl==2.5.3
 packaging==17.1
-paddlepaddle==1.8.1
+paddlepaddle==2.4.0
 pandas==0.23.0
 pandocfilters==1.4.2
 parso==0.2.0
